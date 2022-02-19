@@ -1,4 +1,3 @@
-# Lift-Off-C-2022
 #include <stdio.h>
 
 int main() {
